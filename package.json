@@ -1,0 +1,23 @@
+{
+  "name": "jest-esm-transformer-2",
+  "version": "1.0.0",
+  "description": "jest-esm-transformer for jest 28 and later version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jung-han/jest-esm-transformer-2.git"
+  },
+  "author": "jung-han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jung-han/jest-esm-transformer-2/issues"
+  },
+  "homepage": "https://github.com/jung-han/jest-esm-transformer-2#readme",
+  "dependencies": {
+    "@babel/core": "^7.18.6",
+    "@babel/plugin-transform-modules-commonjs": "^7.18.6"
+  }
+}
